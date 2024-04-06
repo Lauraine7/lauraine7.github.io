@@ -1,0 +1,159 @@
+*{ }
+h1
+{   }
+body
+{
+  background-color: white;
+}
+ .main1
+{
+ background-color:skyblue;
+   padding:10px;
+   border-radius:10px;
+}
+ .mainup1
+ {
+  background-color:pink;
+  padding:10px;
+  text-align: center;
+  padding-bottom:75px;
+  border-radius:10px;
+ 
+}
+ .infogauche{
+  font-size: 10px;
+  text-align: left;
+  float:left;
+  padding:5%;
+  background-color:lightpink;
+  padding-bottom:5px;
+  width:2%;
+  padding-right:8%;
+  width:20%;
+  border-radius:10px;
+  padding-top:4px;
+  }
+  .infodroite{
+  text-align:right;
+  float:right;
+  padding:5%;
+  background-color:lightpink;
+  padding-bottom:180px;
+  width:2%;
+  height:7px;
+  padding-top:5px;
+  padding-right:5%;
+  width:20%;
+  font-size:10px;
+  border-radius:10px;
+  }
+  .photomil{
+  padding:50%;
+  text-align:center;
+  float:center;
+  background-color:pink;
+  padding-top:20px;
+  padding-bottom:20px;
+  width:5%;
+  padding-right:5%;
+  padding-left:5%;
+  width:20%;
+  box-sizing:10%;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  border-radius:10px;
+  transform:perspective(500px);
+  rotatex:(45deg);
+  overflow:hidden;
+  }
+  .trapezium-image{
+    border-radius:10px;
+  }
+  .square-image{
+   width:200px;
+   height:300px;
+   border-radius:10%;
+   background-color:red;
+   }
+   .blurred-text{
+   color:green;
+   filter:blur(1px);
+   font-size:18px;
+   }
+   .Admid{
+   background-color:main1-background-color;
+   height:3px;
+   }
+   .Amida{
+    background-color:brown;
+    height:3px;
+    float:left;
+    width:3px;
+    }
+    .mainbas1{
+    background-color:green;
+    padding:40px;
+    float: down;
+    border-radius:10px;
+    }
+    .mainbas2{
+    align-content: center;
+    align-items:center;
+    text-align:center;
+    background-color:lightgray;
+    padding:5%;
+    padding-bottom:130px;
+    border-radius:10px;
+    align-content:center;
+    }
+   .bmid{
+    float:left;
+    background-color:lightgray;
+    width:40px;
+    height:3px;
+    }
+     .bmid2{
+    float:right;
+    background-color:lightgray;
+    width:40px;
+    height:3px;
+    }
+    .admid{
+    background-color:lightgray;
+    width:50px;
+    height:3px;
+    }
+    .mainmil1{
+    background-color:white;
+    float:down;
+    border-radius:10px;
+    font-size:12px;
+    text-align:right;
+    }
+    
+    
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
